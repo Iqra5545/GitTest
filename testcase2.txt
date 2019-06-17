@@ -1,4 +1,16 @@
 Change in a different file
+<<<<<<< HEAD
 Pagal 
 pagal - Iqra
 pagal - Sadia
+=======
+Hello world!
+-----------------------------todays task-----------------------------------
+1- Only single person changing code
+2- Two person changing diff.files
+3- Conflicts Resolution
+4- Diff. tools install
+5- Diff. tool integration
+6- gitignore
+.gitignore
+>>>>>>> 66f38447c329cc25bb9115c38c95015109924b4b
